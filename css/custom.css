@@ -1,0 +1,14 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  padding-top: 70px;
+  background-color: #444;
+}
+
+.container img {
+    max-width: 100%;
+}
+
+img.inline {
+    height: .75em;
+    margin-bottom: .2em;
+}
